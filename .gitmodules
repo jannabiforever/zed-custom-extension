@@ -1,0 +1,3 @@
+[submodule "customized-zed-icon-theme"]
+	path = customized-zed-icon-theme
+	url = https://github.com/jannabiforever/customized-zed-icon-theme.git
