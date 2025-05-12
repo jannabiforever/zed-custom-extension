@@ -4,3 +4,4 @@
 
 [submodule "surreal-mcp-server"]
     path = surreal-mcp-server
+    url = https://github.com/jannabiforever/zed-surrealdb-mcp-server.git
